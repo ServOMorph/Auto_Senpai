@@ -1,6 +1,6 @@
 # Auto Senpai
 
-Automation bot that detects ads on screen and automatically clicks through reward sequences using image recognition.
+Automation bot made for **[senpai-stream](https://senpai-stream.com)** that detects ads on screen and automatically clicks through reward sequences using image recognition.
 
 ## What it does
 
