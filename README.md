@@ -1,5 +1,7 @@
 # Auto Senpai
 
+[![Build Status](https://github.com/ServOMorph/Auto_Senpai/actions/workflows/python-app.yml/badge.svg)](https://github.com/ServOMorph/Auto_Senpai/actions)
+
 Automation bot made for **[senpai-stream](https://senpai-stream.com)** that detects ads on screen and automatically clicks through reward sequences using image recognition.
 
 ## What it does
