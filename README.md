@@ -61,6 +61,6 @@ CONFIDENCE = 0.8  # Detection threshold (0.0–1.0). Lower = more tolerant.
 
 Uses `pyautogui` + `pillow` + `opencv` for pixel-level template matching with configurable confidence. The screen is split in half for the initial ad detection to avoid false positives on the right side.
 
-## Author
+## 👨‍💻 Auteur
 
-Made by **ServOMorph**
+Créé par **ServOMorph**
